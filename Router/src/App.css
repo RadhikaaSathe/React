@@ -1,0 +1,12 @@
+.App{
+  background-color: rgb(233, 233, 138);
+  text-align: center;
+}
+p{
+  font-weight: 600;
+}
+button{
+
+ height: 50px;
+ width: 100px;
+}
